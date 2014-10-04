@@ -1,0 +1,28 @@
+backup module v5
+----------------------------------------
+- rewritten to Pluck v4.7
+
+backup module v0.5
+----------------------------------------
+- security bugs fixed
+- small message echos
+- small changes
+
+backup module v0.4
+----------------------------------------
+- added tar class
+- small changes
+
+backup module v0.3
+----------------------------------------
+- added multibackup
+- new directory for backup files
+- small changes
+
+backup module v0.2
+----------------------------------------
+- never released
+
+backup module v0.1
+----------------------------------------
+- first working version of module
